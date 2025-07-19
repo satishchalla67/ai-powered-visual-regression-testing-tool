@@ -1,0 +1,11 @@
+streamlit==1.31.0
+webdriver-manager==4.0.1
+Pillow==10.1.0
+requests==2.31.0
+opencv-python==4.9.0.80
+scikit-image==0.22.0
+pytest==7.4.3
+pytest-cov==4.1.0
+pytest-mock==3.12.0
+selenium==4.15.2
+requests==2.31.0
